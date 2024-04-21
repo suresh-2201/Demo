@@ -1,4 +1,4 @@
 # Demo
 This is my first Git repository.
 <br>
-Author-Suresh kumar
+Author-Suresh kumar prajapat 
